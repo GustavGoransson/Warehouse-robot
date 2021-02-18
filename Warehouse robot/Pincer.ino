@@ -5,7 +5,7 @@
 bool grab_item(){
 }
  
-
+ 
 //opens pincer by controlling the servomotor
 void release_item(){
 }	
